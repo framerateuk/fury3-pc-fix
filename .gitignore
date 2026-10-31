@@ -1,0 +1,21 @@
+# Never commit anything from the game
+Fury3/
+*.bin
+*.img
+*.iso
+*.cue
+*.ccd
+*.sub
+*.exe
+*.EXE
+*.dll
+*.DLL
+*.POD
+*.pod
+*.AVI
+*.avi
+*.FFF
+*.fff
+*.o
+data/
+__pycache__/
